@@ -1,0 +1,13 @@
+.navbar {
+  background: #666; }
+
+.main .header-1 {
+  color: red; }
+  .main .header-1 span {
+    color: blue; }
+.main .parahraph {
+  color: rebeccapurple; }
+  .main .parahraph.is-big {
+    font-size: 30px; }
+
+/*# sourceMappingURL=style.css.map */

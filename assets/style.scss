@@ -1,0 +1,16 @@
+@import '_nav.scss';
+
+.main {
+    .header-1 { 
+        color:red;
+        span {
+            color: blue;
+        }
+    }
+    .parahraph {
+        color: rebeccapurple;
+        &.is-big {
+            font-size: 30px;
+        }
+    }
+}
